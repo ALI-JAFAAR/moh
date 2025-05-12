@@ -48,7 +48,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                </div></div><div class="owl-item" style="width: 1470px; margin-right: 0px;"><div class="item" style="background-image: url('/media/Ar-Dashboard/website banner 1-03.png')">
+                                </div></div><div class="owl-item" style="width: 1470px; margin-right: 0px;"><div class="item" style="background-image: url('{{asset('assets/website banner 1-03.png')}}')">
                                     <div class="container">
 
                                     </div>
