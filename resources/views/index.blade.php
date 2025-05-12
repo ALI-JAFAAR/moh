@@ -24,244 +24,29 @@
 
         <main id="main" class="site-content">
             <input type="hidden" id="cultureName" value="ar-AE">
-            <section id="slider" class="slider-section">
-                <div class="slider5 ctrl-nav-one bullet-one owl-carousel owl-theme owl-loaded owl-text-select-on">
-                    <!-- item -->
-                    <!-- item -->
-                    <!-- item -->
-                    <!-- item -->
-                    <!-- item -->
-                    <!-- item -->
-                    <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-5880px, 0px, 0px); transition: all; width: 14700px;"><div class="owl-item cloned" style="width: 1470px; margin-right: 0px;"><div class="item" style="background-image: url('/media/Medical Team/Mansoor AR.png')">
-                                    <div class="container">
-
-                                    </div>
-                                </div></div><div class="owl-item cloned" style="width: 1470px; margin-right: 0px;"><div class="item" style="background-image: url('/media/public health/NRC-slider.jpg')">
-                                    <div class="container">
-                                        <div class="container">
-                                            <div class="flex flex-middle fitscreen" style="height: 113px;">
-                                                <div class="slide-content realestate-slide-content">
-                                                    <h2 class="text-center">أهلاً بكم في المركز الوطني للتأهيل</h2><!--
-              <div class="price"><small>( A GOVERMENT ORGANIZATION )</small></div>-->
-                                                    <p class="text-center"> <a href="/ar/our-history" class="btn-flat btn-primary waves-effect text-uppercase">اقرأ المزيد</a></p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div></div><div class="owl-item" style="width: 1470px; margin-right: 0px;"><div class="item" style="background-image: url('/media/Ar-Dashboard/website banner 1-03.png')">
-                                    <div class="container">
-
-                                    </div>
-                                </div></div><div class="owl-item" style="width: 1470px; margin-right: 0px;"><div class="item" style="background-image: url('/media/Medical Team/Khalifa AR.png')">
-                                    <div class="container">
-
-                                    </div>
-                                </div></div><div class="owl-item active" style="width: 1470px; margin-right: 0px;"><div class="item" style="background-image: url('/media/Ar-Dashboard/website banner 1-02.png')">
-                                    <div class="container">
-
-                                    </div>
-                                </div></div><div class="owl-item" style="width: 1470px; margin-right: 0px;"><div class="item" style="background-image: url('/media/public health/website banner 1-08.jpg')">
-                                    <div class="container">
-
-                                    </div>
-                                </div></div><div class="owl-item" style="width: 1470px; margin-right: 0px;"><div class="item" style="background-image: url('/media/Medical Team/Mansoor AR.png')">
-                                    <div class="container">
-
-                                    </div>
-                                </div></div><div class="owl-item" style="width: 1470px; margin-right: 0px;"><div class="item" style="background-image: url('/media/public health/NRC-slider.jpg')">
-                                    <div class="container">
-                                        <div class="container">
-                                            <div class="flex flex-middle fitscreen" style="height: 113px;">
-                                                <div class="slide-content realestate-slide-content">
-                                                    <h2 class="text-center">أهلاً بكم في المركز الوطني للتأهيل</h2><!--
-              <div class="price"><small>( A GOVERMENT ORGANIZATION )</small></div>-->
-                                                    <p class="text-center"> <a href="/ar/our-history" class="btn-flat btn-primary waves-effect text-uppercase">اقرأ المزيد</a></p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div></div><div class="owl-item cloned" style="width: 1470px; margin-right: 0px;"><div class="item" style="background-image: url('/media/Ar-Dashboard/website banner 1-03.png')">
-                                    <div class="container">
-
-                                    </div>
-                                </div></div><div class="owl-item cloned" style="width: 1470px; margin-right: 0px;"><div class="item" style="background-image: url('/media/Medical Team/Khalifa AR.png')">
-                                    <div class="container">
-
-                                    </div>
-                                </div></div></div></div><div class="owl-controls"><div class="owl-nav"><div class="owl-prev btn-floating btn-large waves-effect btn-white" style=""><i class="fa fa-angle-left"></i></div><div class="owl-next btn-floating btn-large waves-effect btn-white" style=""><i class="fa fa-angle-right"></i></div></div><div class="owl-dots" style="display: block;"><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot active"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div></div></div></div>
-            </section>
-
-
-            <!-- Next Sectionk -->
-            <section id="" class="travel-overlap bottom-full e-service-slider">
-                <div class="container">
-                    <div class="sc-carousel-4-col ctrl-nav-one bullet-out-50 owl-carousel owl-theme owl-loaded">
 
 
 
 
+            <x-slider />
 
 
 
-                        <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-2257.5px, 0px, 0px); transition: 0.7s; width: 4837.5px;"><div class="owl-item cloned" style="width: 322.5px; margin-right: 0px;"><a href="https://www.tamm.abudhabi/ar-AE/aspects-of-life/familycommunity/medicaltreatment/Rehabilitation/RequestatoWhomItMayConcernCertificateNRC" target="_blank">
+            <x-slider-container />
 
-                                        <div class="light-blue-opacity services-blue-padding zoom">
-                                            <p class="text-center">
-                                                <img src="/media/icons/Certificate.png" alt="" class="width100">
-                                            </p>
-                                            <h4 class="text-center text-uppercase text-white">طلب شهادة لمن يهمه
-                                                <br>
-                                                الأمر</h4>
-                                        </div>
-                                    </a></div><div class="owl-item cloned" style="width: 322.5px; margin-right: 0px;"><a href="https://www.tamm.abudhabi/ar-AE/aspects-of-life/familycommunity/medicaltreatment/Rehabilitation/RequestMedicalReport" target="_blank">
 
-                                        <div class="theme-blue-opacity services-blue-padding zoom">
 
-                                            <p class="text-center">
-                                                <img src="/media/icons/medical_report.png" alt="" class="width100">
-                                            </p>
-                                            <h4 class="text-center text-uppercase text-white">طلب تقرير طبي</h4>
-                                        </div>
-                                    </a></div><div class="owl-item cloned" style="width: 322.5px; margin-right: 0px;"><a href="https://www.tamm.abudhabi/ar-AE/aspects-of-life/familycommunity/medicaltreatment/Rehabilitation/RequestaVolunteerOpportunityatNRC" target="_blank">
-
-                                        <div class="light-blue-opacity services-blue-padding zoom">
-                                            <p class="text-center">
-                                                <img src="/media/icons/Volunteering.png" alt="" class="width100">
-                                            </p>
-                                            <h4 class="text-center text-uppercase text-white">طلب تطوع</h4>
-                                        </div>
-                                    </a></div><div class="owl-item cloned" style="width: 322.5px; margin-right: 0px;"><a href="https://www.tamm.abudhabi/ar-AE/aspects-of-life/familycommunity/medicaltreatment/Rehabilitation/RequestAddictionRecoveryTraining" target="_blank">
-
-                                        <div class="theme-blue-opacity services-blue-padding zoom">
-
-                                            <p class="text-center">
-                                                <img src="/media/icons/specialized--training.png" alt="" class="width100">
-                                            </p>
-                                            <h4 class="text-center text-uppercase text-white">طلب تدريب متخصص في
-                                                <br>
-                                                مجال الإدمان
-                                            </h4>
-                                        </div>
-                                    </a></div><div class="owl-item" style="width: 322.5px; margin-right: 0px;"><a href="https://www.tamm.abudhabi/ar-AE/aspects-of-life/familycommunity/medicaltreatment/Rehabilitation/BookanAppointmentforMedicalObservation" target="_blank">
-
-                                        <div class="theme-blue-opacity services-blue-padding zoom">
-
-                                            <p class="text-center">
-                                                <img src="/media/icons/appointment.png" alt="" class="width100">
-                                            </p>
-                                            <h4 class="text-center text-uppercase text-white">حجز موعد لمعاينة مريض
-                                                <br>
-                                                (طوعي)</h4>
-                                        </div>
-                                    </a></div><div class="owl-item" style="width: 322.5px; margin-right: 0px;"><a href="https://www.tamm.abudhabi/ar-AE/aspects-of-life/familycommunity/socialservices/FamilySupport/RequestaSpecialisedConsultationonAddiction" target="_blank">
-
-                                        <div class="light-blue-opacity services-blue-padding zoom">
-                                            <p class="text-center">
-                                                <img src="/media/icons/Specialized--Consultation.png" alt="" class="width100">
-                                            </p>
-                                            <h4 class="text-center text-uppercase text-white"> طلب استشارة متخصصة
-                                                <br>
-                                                عن الإدمان</h4>
-                                        </div>
-                                    </a></div><div class="owl-item" style="width: 322.5px; margin-right: 0px;"><a href="https://www.tamm.abudhabi/ar-AE/aspects-of-life/familycommunity/socialservices/FamilySupport/RequestAwarenessWorkshop" target="_blank">
-
-                                        <div class="theme-blue-opacity services-blue-padding zoom">
-
-                                            <p class="text-center">
-                                                <img src="/media/icons/Workshop_1.png" alt="" class="width100">
-                                            </p>
-                                            <h4 class="text-center text-uppercase text-white">طلب ورشة / ندوة توعوية</h4>
-                                        </div>
-                                    </a></div><div class="owl-item active" style="width: 322.5px; margin-right: 0px;"><a href="https://www.tamm.abudhabi/ar-AE/aspects-of-life/familycommunity/medicaltreatment/Rehabilitation/RequestatoWhomItMayConcernCertificateNRC" target="_blank">
-
-                                        <div class="light-blue-opacity services-blue-padding zoom">
-                                            <p class="text-center">
-                                                <img src="/media/icons/Certificate.png" alt="" class="width100">
-                                            </p>
-                                            <h4 class="text-center text-uppercase text-white">طلب شهادة لمن يهمه
-                                                <br>
-                                                الأمر</h4>
-                                        </div>
-                                    </a></div><div class="owl-item active" style="width: 322.5px; margin-right: 0px;"><a href="https://www.tamm.abudhabi/ar-AE/aspects-of-life/familycommunity/medicaltreatment/Rehabilitation/RequestMedicalReport" target="_blank">
-
-                                        <div class="theme-blue-opacity services-blue-padding zoom">
-
-                                            <p class="text-center">
-                                                <img src="/media/icons/medical_report.png" alt="" class="width100">
-                                            </p>
-                                            <h4 class="text-center text-uppercase text-white">طلب تقرير طبي</h4>
-                                        </div>
-                                    </a></div><div class="owl-item active" style="width: 322.5px; margin-right: 0px;"><a href="https://www.tamm.abudhabi/ar-AE/aspects-of-life/familycommunity/medicaltreatment/Rehabilitation/RequestaVolunteerOpportunityatNRC" target="_blank">
-
-                                        <div class="light-blue-opacity services-blue-padding zoom">
-                                            <p class="text-center">
-                                                <img src="/media/icons/Volunteering.png" alt="" class="width100">
-                                            </p>
-                                            <h4 class="text-center text-uppercase text-white">طلب تطوع</h4>
-                                        </div>
-                                    </a></div><div class="owl-item active" style="width: 322.5px; margin-right: 0px;"><a href="https://www.tamm.abudhabi/ar-AE/aspects-of-life/familycommunity/medicaltreatment/Rehabilitation/RequestAddictionRecoveryTraining" target="_blank">
-
-                                        <div class="theme-blue-opacity services-blue-padding zoom">
-
-                                            <p class="text-center">
-                                                <img src="/media/icons/specialized--training.png" alt="" class="width100">
-                                            </p>
-                                            <h4 class="text-center text-uppercase text-white">طلب تدريب متخصص في
-                                                <br>
-                                                مجال الإدمان
-                                            </h4>
-                                        </div>
-                                    </a></div><div class="owl-item cloned" style="width: 322.5px; margin-right: 0px;"><a href="https://www.tamm.abudhabi/ar-AE/aspects-of-life/familycommunity/medicaltreatment/Rehabilitation/BookanAppointmentforMedicalObservation" target="_blank">
-
-                                        <div class="theme-blue-opacity services-blue-padding zoom">
-
-                                            <p class="text-center">
-                                                <img src="/media/icons/appointment.png" alt="" class="width100">
-                                            </p>
-                                            <h4 class="text-center text-uppercase text-white">حجز موعد لمعاينة مريض
-                                                <br>
-                                                (طوعي)</h4>
-                                        </div>
-                                    </a></div><div class="owl-item cloned" style="width: 322.5px; margin-right: 0px;"><a href="https://www.tamm.abudhabi/ar-AE/aspects-of-life/familycommunity/socialservices/FamilySupport/RequestaSpecialisedConsultationonAddiction" target="_blank">
-
-                                        <div class="light-blue-opacity services-blue-padding zoom">
-                                            <p class="text-center">
-                                                <img src="/media/icons/Specialized--Consultation.png" alt="" class="width100">
-                                            </p>
-                                            <h4 class="text-center text-uppercase text-white"> طلب استشارة متخصصة
-                                                <br>
-                                                عن الإدمان</h4>
-                                        </div>
-                                    </a></div><div class="owl-item cloned" style="width: 322.5px; margin-right: 0px;"><a href="https://www.tamm.abudhabi/ar-AE/aspects-of-life/familycommunity/socialservices/FamilySupport/RequestAwarenessWorkshop" target="_blank">
-
-                                        <div class="theme-blue-opacity services-blue-padding zoom">
-
-                                            <p class="text-center">
-                                                <img src="/media/icons/Workshop_1.png" alt="" class="width100">
-                                            </p>
-                                            <h4 class="text-center text-uppercase text-white">طلب ورشة / ندوة توعوية</h4>
-                                        </div>
-                                    </a></div><div class="owl-item cloned" style="width: 322.5px; margin-right: 0px;"><a href="https://www.tamm.abudhabi/ar-AE/aspects-of-life/familycommunity/medicaltreatment/Rehabilitation/RequestatoWhomItMayConcernCertificateNRC" target="_blank">
-
-                                        <div class="light-blue-opacity services-blue-padding zoom">
-                                            <p class="text-center">
-                                                <img src="/media/icons/Certificate.png" alt="" class="width100">
-                                            </p>
-                                            <h4 class="text-center text-uppercase text-white">طلب شهادة لمن يهمه
-                                                <br>
-                                                الأمر</h4>
-                                        </div>
-                                    </a></div></div></div><div class="owl-controls"><div class="owl-nav"><div class="owl-prev btn-floating btn-large waves-effect" style=""><i class="fa fa-long-arrow-left"></i></div><div class="owl-next btn-floating btn-large waves-effect" style=""><i class="fa fa-long-arrow-right"></i></div></div><div class="owl-dots" style=""><div class="owl-dot active"><span></span></div><div class="owl-dot"><span></span></div></div></div></div>  <!-- end .row -->
-                </div> <!-- /.container -->
-            </section>
             <!-- our-class -->
             <section id="our-class" class="section-full">
                 <div class="container">
                     <div class="row">
                         <div class="col-xs-12 col-sm-6 col-md-6 bottom-margin">
+
                             <div class="content">
-                                <h4 class="verticalLine mb-15">البرامج العلاجية والتأهيلية
-                                </h4>                                      <div id="accordion-2" class="mb-80">
+                                <h4 class="verticalLine mb-15">
+                                    البرامج العلاجية والتأهيلية
+                                </h4>
+                                <div id="accordion-2" class="mb-80">
                                     <div class="panel mt-ac-2">
                                         <h5 class="panel-heading " data-accordion="">
                                             <a data-toggle="collapse" class="title-link" data-parent="#accordion-2" href="#collapse1">
@@ -270,8 +55,13 @@
                                         </h5>
                                         <div id="collapse1" class="panel-collapse collapse">
                                             <p class="panel-body">
-                                            </p><p>تقييم الحالةالاكلينيكية لمريض الادمان هي عملية شاملة و تحتاج للتعاون بين المريض و الفريق العلاجي ..</p>
-                                            <p><a href="/ar/intake-and-assessment"><em>الرابط</em> اقرأ المزيد  </a></p>
+                                            </p>
+                                            <p>تقييم الحالةالاكلينيكية لمريض الادمان هي عملية شاملة و تحتاج للتعاون بين المريض و الفريق العلاجي ..</p>
+                                            <p>
+                                                <a href="/ar/intake-and-assessment">
+                                                    <em>الرابط</em> اقرأ المزيد
+                                                </a>
+                                            </p>
 
                                         </div>
                                     </div>
@@ -327,6 +117,7 @@
                                                 </a></p>
                                         </div>
                                     </div>
+
                                 </div> <!-- end #accordion-2 -->
                             </div>
                         </div> <!-- end .col -->
@@ -347,6 +138,8 @@
                     </div>  <!-- end .row -->
                 </div> <!-- /.container -->
             </section>
+
+
             <!-- our-class -->
             <section class="section padding0">
                 <div class="container">
