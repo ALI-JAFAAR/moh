@@ -36,108 +36,7 @@
 
 
 
-            <!-- our-class -->
-            <section id="our-class" class="section-full">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-xs-12 col-sm-6 col-md-6 bottom-margin">
-
-                            <div class="content">
-                                <h4 class="verticalLine mb-15">
-                                    البرامج العلاجية والتأهيلية
-                                </h4>
-                                <div id="accordion-2" class="mb-80">
-                                    <div class="panel mt-ac-2">
-                                        <h5 class="panel-heading " data-accordion="">
-                                            <a data-toggle="collapse" class="title-link" data-parent="#accordion-2" href="#collapse1">
-                                                <img src="/media/icons/Icon map-doctor.png" class="theme-blue-color p-10 accord-w-h"> البرامج العلاجية
-                                            </a>
-                                        </h5>
-                                        <div id="collapse1" class="panel-collapse collapse">
-                                            <p class="panel-body">
-                                            </p>
-                                            <p>تقييم الحالةالاكلينيكية لمريض الادمان هي عملية شاملة و تحتاج للتعاون بين المريض و الفريق العلاجي ..</p>
-                                            <p>
-                                                <a href="/ar/intake-and-assessment">
-                                                    <em>الرابط</em> اقرأ المزيد
-                                                </a>
-                                            </p>
-
-                                        </div>
-                                    </div>
-                                    <div class="panel mt-ac-2">
-                                        <h5 class="panel-heading " data-accordion="">
-                                            <a data-toggle="collapse" class="title-link" data-parent="#accordion-2" href="#collapse2">
-                                                <img src="/media/icons/Icon material-record-voice-over.png" class="theme-blue-color p-10 accord-w-h"> البرامج التأهيلية الأساسية
-                                            </a>
-                                        </h5>
-                                        <div id="collapse2" class="panel-collapse collapse">
-                                            <p class="panel-body">
-                                            </p><p> يهدف البرنامج إلى تأهيل المريض بمهارات الحاسوب وتطبيقاته مما يضمن له اكتساب مهارة تؤهله للاستفادة منها لتسويق نفسه ودعمه في سوق العمل أو تطوير أعماله الخاصة وحوسبتها لما يلبي ...</p>
-                                            <p><a href="/ar/Vocational-Programs"><em>الرابط</em> اقرأ المزيد
-                                                </a></p>
-                                        </div>
-                                    </div>
-                                    <div class="panel mt-ac-2">
-                                        <h5 class="panel-heading " data-accordion="">
-                                            <a data-toggle="collapse" class="title-link" data-parent="#accordion-2" href="#collapse3">
-                                                <img src="/media/icons/Icon awesome-heart.png" class="theme-blue-color p-10 accord-w-h"> البرامج التأهيلية المساندة
-                                            </a>
-                                        </h5>
-                                        <div id="collapse3" class="panel-collapse collapse">
-                                            <p class="panel-body">
-                                            </p><p> يهدف البرنامج لمشاركة المرضى المقيمين في الاحتفال في المناسبات العامة والدينية والموسمية مثل: ( كرنفال عيد الفطر السعيد وعيد الأضحى المبارك وذكرى يوم الشهيد وذكرى الاتحاد ..</p>
-                                            <p><a href="/ar/Recreating-Programs"><em>الرابط</em> اقرأ المزيد </a></p>
-                                        </div>
-                                    </div>
-                                    <div class="panel mt-ac-2">
-                                        <h5 class="panel-heading " data-accordion="">
-                                            <a data-toggle="collapse" class="title-link" data-parent="#accordion-2" href="#collapse4">
-                                                <img src="/media/icons/Icon awesome-building.png" class="theme-blue-color p-10 accord-w-h"> مرافق مساندة
-                                            </a>
-                                        </h5>
-                                        <div id="collapse4" class="panel-collapse collapse">
-
-                                            <p class="panel-body">
-                                            </p><p> منطقة تفاعلية محيطة بمجموعة كبيرة من الكتب مختلفة الجوانب داخل قاعة هادئة وعفش متميز حيث يجعل من القراءة والتصفح محطة من التأمل والصفاء ...</p>
-                                            <p><a href="/ar/Facilities"><em>الرابط</em> اقرأ المزيد
-                                                </a></p>
-                                        </div>
-                                    </div>
-                                    <div class="panel mt-ac-2">
-                                        <h5 class="panel-heading " data-accordion="">
-                                            <a data-toggle="collapse" class="title-link" data-parent="#accordion-2" href="#collapse5">
-                                                <img src="/media/icons/Icon simple-hipchat.png" class="theme-blue-color p-10 accord-w-h"> قصص من الواقع
-                                            </a>
-                                        </h5>
-                                        <div id="collapse5" class="panel-collapse collapse">
-                                            <p class="panel-body">
-                                            </p><p>تبدأ دائماً رحلة الإدمان بدافع الفضول وحب التجربة، بجانب تصوير رفاق السوء للشخص بأن المخدرات مصدر للسعادة، وما إن يقع الشخص في براثنها حتى يكتشف الكذبة الكبرى، وتتدهور علاقاته بكل المحيطين به، ويحيل حياتهم جحيماً</p>
-                                            <p><a href="/ar/success-stories"><em>الرابط</em> اقرأ المزيد
-                                                </a></p>
-                                        </div>
-                                    </div>
-
-                                </div> <!-- end #accordion-2 -->
-                            </div>
-                        </div> <!-- end .col -->
-                        <div class="col-xs-12 col-sm-6 col-md-6 bottom-margin">
-                            <div class="content">
-                                <h4 class="verticalLine mb-15">الإدمان والمؤثرات العقلية</h4>
-                                <hr>
-                                <ul class="list fz-16 fw300 list-bullhorn">
-                                    <li><a href="/ar/what-is-addiction"> ما هو الإدمان ؟ <i class="fa fa-angle-right"></i></a></li><hr>
-                                    <li><a href="/ar/what-are-psychoactive-substances"> ما هي المؤثرات العقلية؟ <i class="fa fa-angle-right"></i></a></li><hr>
-                                    <li><a href="/ar/gaming-addiction"> الإدمان الإلكتروني <i class="fa fa-angle-right"></i></a></li><hr>
-                                    <li><a href="/ar/importance-of-treatment"> أهمية العلاج <i class="fa fa-angle-right"></i></a></li><hr>
-                                    <li><a href="/ar/Prevention"> الوقاية <i class="fa fa-angle-right"></i></a></li><hr>
-                                    <li><a href="/ar/success-stories"> قصص نجاح <i class="fa fa-angle-right"></i></a></li><hr>
-                                </ul>
-                            </div>
-                        </div> <!-- end .col -->
-                    </div>  <!-- end .row -->
-                </div> <!-- /.container -->
-            </section>
+            <x-extras.programs />
 
 
             <!-- our-class -->
@@ -149,577 +48,11 @@
                     <div class="sc-carousel-3-col p-v-10 ctrl-nav-one bullet-out-50 owl-carousel owl-theme owl-loaded" id="news-details">
                         <!--Removing Conditional Widget NewsDetailArabic -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                        <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-6600px, 0px, 0px); transition: 0.7s; width: 9680px;"><div class="owl-item cloned" style="width: 410px; margin-right: 30px;"><div class="owl-item" style="width: 410px; margin-right: 30px;"><div class="widget-container">
-
+                        <div class="owl-stage-outer">
+                            <div class="owl-stage" style="transform: translate3d(-6600px, 0px, 0px); transition: 0.7s; width: 9680px;">
+                                <div class="owl-item cloned" style="width: 410px; margin-right: 30px;">
+                                    <div class="owl-item" style="width: 410px; margin-right: 30px;">
+                                        <div class="widget-container">
                                             <style>
                                                 .img-center {
                                                     height: 400px;
@@ -729,51 +62,42 @@
                                             </style>
                                             <div class="eventdate hidden">20221109</div>
                                             <input type="hidden" id="cultureName" value="ar-AE">
-
                                             <div class="isHomeForNews">
-
-
                                                 <article class="hentry-card shadow-default news-sec">
                                                     <div class="hentry-meta theme-blue-color text-uppercase fw300 title-color">
                                                         <a href="/ar/الوطني-للتاهيل-ينظم-ورشة-توعوية-لطلاب-اكاديمية-نادي-الجزيرة" class="text-white">نوفمبر 09, 2022</a> </div>
-                                                    <figure class="media"> <img src="/media/News/9-11.jpg" alt="" class="img-responsive"> </figure>
+                                                    <figure class="media">
+                                                        <img src="/media/News/9-11.jpg" alt="" class="img-responsive">
+                                                    </figure>
                                                     <header class="hentry-header">
-                                                        <h4 class="f700 fz-16"><a href="/ar/الوطني-للتاهيل-ينظم-ورشة-توعوية-لطلاب-اكاديمية-نادي-الجزيرة" class="title-link">الوطني للتأهيل ينظم ورشة توعوية لطلاب أكاديمية نادي الجزيرة</a></h4>
-                                                        <p>الوطني للتأهيل ينظم ورشة توعوية لطلاب أكاديمية نادي الجزيرة<i class="fa fa-angle-right"></i></p>
+                                                        <h4 class="f700 fz-16">
+                                                            <a href="/ar/الوطني-للتاهيل-ينظم-ورشة-توعوية-لطلاب-اكاديمية-نادي-الجزيرة" class="title-link">الوطني للتأهيل ينظم ورشة توعوية لطلاب أكاديمية نادي الجزيرة</a>
+                                                        </h4>
+                                                        <p>
+                                                            الوطني للتأهيل ينظم ورشة توعوية لطلاب أكاديمية نادي الجزيرة<i class="fa fa-angle-right"></i>
+                                                        </p>
                                                     </header>
                                                 </article>
-
                                             </div>
                                             <div class="isNews hidden">
-
                                                 <div class="col-xs-12 col-sm-6 mb-30">
-
                                                     <article class="blog-post-1">
-
                                                         <figure class="thumb z-depth-1 mb-30 relative ov-hidden">
-
                                                             <img src="/media/News/9-11.jpg" class="img-responsive" alt="">
-
                                                             <div class="hover-ripple right" style="background-color: rgb(255, 255, 255); opacity: 0.85;"></div>
-
                                                         </figure>
-
                                                         <div class="post-desc" style="min-height: 95px;"><!--style="min-height: 95px;"-->
-
-
-                                                            <h3 class="mb-10"><a href="/ar/الوطني-للتاهيل-ينظم-ورشة-توعوية-لطلاب-اكاديمية-نادي-الجزيرة" class="title-link">الوطني للتأهيل ينظم ورشة توعوية لطلاب أكاديمية نادي الجزيرة</a></h3>
-
-                                                            <time datetime="نوفمبر 09, 2022"><i class="fa fa-calendar"></i> <span class="ml-20">
-                                  تم
-                                  نوفمبر 09, 2022</span></time>
-
+                                                            <h3 class="mb-10">
+                                                                <a href="/ar/الوطني-للتاهيل-ينظم-ورشة-توعوية-لطلاب-اكاديمية-نادي-الجزيرة" class="title-link">
+                                                                    الوطني للتأهيل ينظم ورشة توعوية لطلاب أكاديمية نادي الجزيرة
+                                                                </a>
+                                                            </h3>
+                                                            <time datetime="نوفمبر 09, 2022">
+                                                                <i class="fa fa-calendar"></i> <span class="ml-20">تم نوفمبر 09, 2022</span>
+                                                            </time>
                                                         </div>
-
                                                     </article> <!-- /.blog-post-1 -->
-
                                                 </div> <!-- /.col- -->
-
-
                                             </div>
 
                                             <div class="isDetailsForNews hidden">
@@ -784,6 +108,7 @@
                                                         <div class="container">
 
                                                             <article class="hentry-single">
+
                                                                 <div class="owl-carousel owl-theme owl-carousel-single" role="tablist">
 
                                                                     <div class="row mb-10">
@@ -795,34 +120,66 @@
                                                                         <div class="col-xs-12 col-sm-12">
                                                                             <h3>الوطني للتأهيل ينظم ورشة توعوية لطلاب أكاديمية نادي الجزيرة</h3>
                                                                             <div class="hentry-meta fw300 text-uppercase mt-10 mb-10">
-                                  <span class="posted-on mr-10"><i class="mr-5 fa fa-calendar-check-o"></i>
-                                    الأربعاء, نوفمبر 09, 2022</span>
+                                                                                <span class="posted-on mr-10">
+                                                                                    <i class="mr-5 fa fa-calendar-check-o"></i>الأربعاء, نوفمبر 09, 2022
+                                                                                </span>
                                                                             </div>
                                                                         </div>
                                                                     </div>
-
-                                                                    <p>قدم المركز الوطني للتأهيل اليوم ورشة عمل توعوية لطلاب أكاديمية نادي الجزيرة لكرة القدم في أبوظبي في مبادرة تهدف إلى إيصال رسائل التوعية إلى الشباب.</p><p>تأتي الورشة ضمن مبادرات الخطة الاستراتيجية للمركز بما يتوافق مع الاستراتيجية المتكاملة لمكافحة الإدمان في إمارة أبوظبي و المساهمة في نشر الوعي بين أفراد المجتمع حول طبيعة مرض الإدمان ومضاعفاته على الفرد و الأسرة و المجتمع.</p><p>وقال الدكتور عارف علي الشحي الرئيس التنفيذي للمركز الوطني للتأهيل - بهذه المناسبة - إن الورشة التوعوية التي حضرها 42 من طلاب الصفوف العاشر والحادي عشر والثاني عشر من أكاديمية نادي الجزيرة لكرة القدم تعتبر جزءاً من برامج المركز الهادفة لزيادة الوعي بين الطلاب من خلال زيارتهم إلى المركز والتعرف على دوره وخدماته إضافة إلى التعريف بمرض الإدمان وأضراره .</p><p>وأضاف أن المركز يعقد سنوياً الكثير من البرامج التوعوية المخصصة للفئات المستهدفة وخاصة فئة الشباب والمراهقين إلى جانب إبرام اتفاقيات مع عدد من الجهات بهدف التوعية المجتمعية على مستوى الدولة .</p><p>من جهته قال الدكتور أنس فكري مدير إدارة الصحة العامة و البحوث بالإنابة في المركز الوطني للتأهيل: “نسعى في المركز للمساهمة في خفض العبء المرضي لآفة الإدمان من خلال برامج وقائية و توعوية مسندة علميا نهدف من خلالها إلى تطوير المهارات الحياتية وإكساب الفئات المختلفة المعرفة و الوعي اللازمين للوقاية من تعاطي المؤثرات العقلية والإدمان عليها مع الاهتمام بفئات الشباب و اليافعين أجيال المستقبل”.</p><p>وأكد حرص المركز على تنفيذ مثل هذه الأنشطة و البرامج بما يحقق رؤيته من جهة ودعم توجهات الحكومة في إمارة أبوظبي والدولة من جهة أخرى .</p><p>وأوضح أن الورشة تضمنت محاضرة توعوية بعنوان " الإدمان على المؤثرات العقلية المخاطر وأهمية الوقاية " وحلقة نقاشية بعنوان “ أضرار المنشطات وتأثيرها السلبي على صحة الرياضيين ”.</p><p>ويحرص "المركز الوطني للتأهيل" في خطته المستقبلية على تعزيز كل ممارسات الوعي الصحي في مجال الإدمان وما تتضمنه من مخرجات هامة تؤدي به إلى رفع مستوى ذلك الوعي لدى شرائح المجتمع كافة.</p>
+                                                                    <p>
+                                                                        قدم المركز الوطني للتأهيل اليوم ورشة عمل توعوية لطلاب أكاديمية نادي الجزيرة لكرة القدم في أبوظبي في مبادرة تهدف إلى إيصال رسائل التوعية إلى الشباب.
+                                                                    </p>
+                                                                    <p>
+                                                                        تأتي الورشة ضمن مبادرات الخطة الاستراتيجية للمركز بما يتوافق مع الاستراتيجية المتكاملة لمكافحة الإدمان في إمارة أبوظبي و المساهمة في نشر الوعي بين أفراد المجتمع حول طبيعة مرض الإدمان ومضاعفاته على الفرد و الأسرة و المجتمع.
+                                                                    </p>
+                                                                    <p>
+                                                                        وقال الدكتور عارف علي الشحي الرئيس التنفيذي للمركز الوطني للتأهيل - بهذه المناسبة - إن الورشة التوعوية التي حضرها 42 من طلاب الصفوف العاشر والحادي عشر والثاني عشر من أكاديمية نادي الجزيرة لكرة القدم تعتبر جزءاً من برامج المركز الهادفة لزيادة الوعي بين الطلاب من خلال زيارتهم إلى المركز والتعرف على دوره وخدماته إضافة إلى التعريف بمرض الإدمان وأضراره .
+                                                                    </p>
+                                                                    <p>
+                                                                        وأضاف أن المركز يعقد سنوياً الكثير من البرامج التوعوية المخصصة للفئات المستهدفة وخاصة فئة الشباب والمراهقين إلى جانب إبرام اتفاقيات مع عدد من الجهات بهدف التوعية المجتمعية على مستوى الدولة .
+                                                                    </p>
+                                                                    <p>
+                                                                        من جهته قال الدكتور أنس فكري مدير إدارة الصحة العامة و البحوث بالإنابة في المركز الوطني للتأهيل: “نسعى في المركز للمساهمة في خفض العبء المرضي لآفة الإدمان من خلال برامج وقائية و توعوية مسندة علميا نهدف من خلالها إلى تطوير المهارات الحياتية وإكساب الفئات المختلفة المعرفة و الوعي اللازمين للوقاية من تعاطي المؤثرات العقلية والإدمان عليها مع الاهتمام بفئات الشباب و اليافعين أجيال المستقبل”.
+                                                                    </p>
+                                                                    <p>
+                                                                        وأكد حرص المركز على تنفيذ مثل هذه الأنشطة و البرامج بما يحقق رؤيته من جهة ودعم توجهات الحكومة في إمارة أبوظبي والدولة من جهة أخرى .
+                                                                    </p>
+                                                                    <p>
+                                                                        وأوضح أن الورشة تضمنت محاضرة توعوية بعنوان " الإدمان على المؤثرات العقلية المخاطر وأهمية الوقاية " وحلقة نقاشية بعنوان “ أضرار المنشطات وتأثيرها السلبي على صحة الرياضيين ”.
+                                                                    </p>
+                                                                    <p>
+                                                                        ويحرص "المركز الوطني للتأهيل" في خطته المستقبلية على تعزيز كل ممارسات الوعي الصحي في مجال الإدمان وما تتضمنه من مخرجات هامة تؤدي به إلى رفع مستوى ذلك الوعي لدى شرائح المجتمع كافة.
+                                                                    </p>
                                                                 </div> <!-- end .hentry-content -->
 
                                                                 <div class="hentry-footer row flex flex-middle disable-flex-xs mt-80">
 
                                                                     <div class="col-xs-12 col-sm-6">
                                                                         <ul class="social-2 flex flex-middle ">
-                                                                            <li><a href="https://www.facebook.com/sharer.php?u=http://nrc.gov.ae/ar" class="facebook text-light"><i class="fa fa-facebook"></i></a></li>
-                                                                            <li><a href="https://twitter.com/intent/tweet?url=http://nrc.gov.ae/ar&amp;text=&amp;via=" class="twitter text-light"><i class="fa fa-twitter"></i></a></li>
-                                                                            <li><a href="https://www.linkedin.com/shareArticle?url=http://nrc.gov.ae/ar&amp;title=" class="linkedin text-light"><i class="fa fa-linkedin"></i></a></li>
-                                                                            <li><a href="https://plus.google.com/share?url=http://nrc.gov.ae/ar" class="gplus text-light"><i class="fa fa-google-plus"></i></a></li>
-                                                                            <!--<li><a href="" class="twitter text-light"><i class="fa fa-twitter"></i></a></li>-->
+                                                                            <li>
+                                                                                <a href="https://www.facebook.com/sharer.php?u=http://nrc.gov.ae/ar" class="facebook text-light">
+                                                                                    <i class="fa fa-facebook"></i>
+                                                                                </a>
+                                                                            </li>
+                                                                            <li>
+                                                                                <a href="https://twitter.com/intent/tweet?url=http://nrc.gov.ae/ar&amp;text=&amp;via=" class="twitter text-light">
+                                                                                    <i class="fa fa-twitter"></i>
+                                                                                </a>
+                                                                            </li>
+                                                                            <li>
+                                                                                <a href="https://www.linkedin.com/shareArticle?url=http://nrc.gov.ae/ar&amp;title=" class="linkedin text-light">
+                                                                                    <i class="fa fa-linkedin"></i>
+                                                                                </a>
+                                                                            </li>
+                                                                            <li>
+                                                                                <a href="https://plus.google.com/share?url=http://nrc.gov.ae/ar" class="gplus text-light">
+                                                                                    <i class="fa fa-google-plus"></i>
+                                                                                </a>
+                                                                            </li>
                                                                         </ul>
                                                                     </div>
                                                                 </div>
                                                             </article>
-
-
-
-
-
-
 
                                                         </div>
                                                     </section>
@@ -913,8 +270,13 @@
                                                 }
                                             </style>
 
-                                        </div></div></div><div class="owl-item cloned" style="width: 410px; margin-right: 30px;"><div class="owl-item" style="width: 410px; margin-right: 30px;"><div class="widget-container">
+                                        </div>
+                                    </div>
+                                </div>
 
+                                <div class="owl-item cloned" style="width: 410px; margin-right: 30px;">
+                                    <div class="owl-item" style="width: 410px; margin-right: 30px;">
+                                        <div class="widget-container">
                                             <style>
                                                 .img-center {
                                                     height: 400px;
@@ -924,20 +286,24 @@
                                             </style>
                                             <div class="eventdate hidden">20240406</div>
                                             <input type="hidden" id="cultureName" value="ar-AE">
-
                                             <div class="isHomeForNews">
-
-
                                                 <article class="hentry-card shadow-default news-sec">
                                                     <div class="hentry-meta theme-blue-color text-uppercase fw300 title-color">
                                                         <a href="/ar/مسوولون-في-القطاع-الصحي-الامارات-تحرص-على-توفير-افضل-الخدمات-الصحية-0" class="text-white">أبريل 06, 2024</a> </div>
-                                                    <figure class="media"> <img src="/media/News/6-2017.jpg" alt="" class="img-responsive"> </figure>
+                                                    <figure class="media">
+                                                        <img src="/media/News/6-2017.jpg" alt="" class="img-responsive">
+                                                    </figure>
                                                     <header class="hentry-header">
-                                                        <h4 class="f700 fz-16"><a href="/ar/مسوولون-في-القطاع-الصحي-الامارات-تحرص-على-توفير-افضل-الخدمات-الصحية-0" class="title-link">مسؤولون في القطاع الصحي:الإمارات تحرص على توفير أفضل الخدمات الصحية</a></h4>
-                                                        <p>مسؤولون في القطاع الصحي:الإمارات تحرص على توفير أفضل الخدمات الصحية<i class="fa fa-angle-right"></i></p>
+                                                        <h4 class="f700 fz-16">
+                                                            <a href="/ar/مسوولون-في-القطاع-الصحي-الامارات-تحرص-على-توفير-افضل-الخدمات-الصحية-0" class="title-link">
+                                                                مسؤولون في القطاع الصحي:الإمارات تحرص على توفير أفضل الخدمات الصحية
+                                                            </a>
+                                                        </h4>
+                                                        <p>
+                                                            مسؤولون في القطاع الصحي:الإمارات تحرص على توفير أفضل الخدمات الصحية<i class="fa fa-angle-right"></i>
+                                                        </p>
                                                     </header>
                                                 </article>
-
                                             </div>
                                             <div class="isNews hidden">
 
@@ -955,32 +321,29 @@
 
                                                         <div class="post-desc" style="min-height: 95px;"><!--style="min-height: 95px;"-->
 
+                                                            <h3 class="mb-10">
+                                                                <a href="/ar/مسوولون-في-القطاع-الصحي-الامارات-تحرص-على-توفير-افضل-الخدمات-الصحية-0" class="title-link">
+                                                                    مسؤولون في القطاع الصحي:الإمارات تحرص على توفير أفضل الخدمات الصحية
+                                                                </a>
+                                                            </h3>
 
-                                                            <h3 class="mb-10"><a href="/ar/مسوولون-في-القطاع-الصحي-الامارات-تحرص-على-توفير-افضل-الخدمات-الصحية-0" class="title-link">مسؤولون في القطاع الصحي:الإمارات تحرص على توفير أفضل الخدمات الصحية</a></h3>
-
-                                                            <time datetime="أبريل 06, 2024"><i class="fa fa-calendar"></i> <span class="ml-20">
-                                  تم
-                                  أبريل 06, 2024</span></time>
-
+                                                            <time datetime="أبريل 06, 2024">
+                                                                <i class="fa fa-calendar"></i>
+                                                                <span class="ml-20">تمأبريل 06, 2024</span>
+                                                            </time>
                                                         </div>
-
                                                     </article> <!-- /.blog-post-1 -->
-
                                                 </div> <!-- /.col- -->
-
 
                                             </div>
 
                                             <div class="isDetailsForNews hidden">
 
                                                 <main id="main" class="site-content">
-
                                                     <section class="section-full">
                                                         <div class="container">
-
                                                             <article class="hentry-single">
                                                                 <div class="owl-carousel owl-theme owl-carousel-single" role="tablist">
-
                                                                     <div class="row mb-10">
                                                                         <div class="col-sm-12">
                                                                             <img src="/media/News/6-2017.jpg" alt="" width="100%" class="img-center">
@@ -990,55 +353,146 @@
                                                                         <div class="col-xs-12 col-sm-12">
                                                                             <h3>مسؤولون في القطاع الصحي:الإمارات تحرص على توفير أفضل الخدمات الصحية</h3>
                                                                             <div class="hentry-meta fw300 text-uppercase mt-10 mb-10">
-                                  <span class="posted-on mr-10"><i class="mr-5 fa fa-calendar-check-o"></i>
-                                    السبت, أبريل 06, 2024</span>
+                                                                                <span class="posted-on mr-10">
+                                                                                    <i class="mr-5 fa fa-calendar-check-o"></i>السبت, أبريل 06, 2024
+                                                                                </span>
                                                                             </div>
                                                                         </div>
                                                                     </div>
 
-                                                                    <p class="read" dir="RTL" style="margin: 5pt 16.5pt; line-height: 200%; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; direction: rtl; unicode-bidi: embed;"><span lang="AR-SA">أكد
-مسؤولون عاملون في القطاع الصحي على ان قطاع الخدمات الصحية في دولة الإمارات يشهد
-تطورا وإنجازات مهمة تتناسب مع التحديات الصحية المتجددة وذلك إدراكا من القيادة
-الرشيدة على أهمية تقديم أفضل الخدمات الصحية وجميع الإمكانيات والوسائل المتطورة
-للقطاع الصحي وتوفير بيئة صحية مناسبة لجميع المواطنين والمقيمين على ارض الدولة</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR" style="font-family: &quot;Noto Kufi Arabic&quot;, sans-serif;"><span dir="LTR"></span><span dir="LTR"></span>.<o:p></o:p></span></p><p class="read" dir="RTL" style="margin: 5pt 16.5pt; line-height: 200%; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; direction: rtl; unicode-bidi: embed; font-size: var(--pw-font-size-lg);"><span lang="AR-SA">وأكد يوسف الذيب الكتبي الرئيس التنفيذي للمركز
-الوطني للتأهيل أن دولة الإمارات تحرص على توفير أفضل الخدمات الصحية للمواطنين
-والمقيمين والزائرين وهو النهج الذي غرسه المغفور له الشيخ زايد بن سلطان آل نهيان
-"طيب الله ثراه " وبفضله تبوأت الإمارات مكانة بارزة في مجال الرعاية
-الصحية عالمياً</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR" style="font-family: &quot;Noto Kufi Arabic&quot;, sans-serif;"><span dir="LTR"></span><span dir="LTR"></span>.<o:p></o:p></span></p><p class="read" dir="RTL" style="margin: 5pt 16.5pt; line-height: 200%; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; direction: rtl; unicode-bidi: embed; font-size: var(--pw-font-size-lg);"><span lang="AR-SA">وأضاف في تصريح لوكالة انباء الإمارات
-"وام" بمناسبة الاحتفال بيوم الصحة العالمي الذي يصادف السابع من أبريل
-من كل عام، أن الإمارات بقيادة صاحب السمو الشيخ محمد بن زايد آل نهيان رئيس
-الدولة "حفظه الله" تسير على هذا النهج لتضع الإمارات في مصاف الدول
-المتقدمة في كافة الخدمات الصحية</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR" style="font-family: &quot;Noto Kufi Arabic&quot;, sans-serif;"><span dir="LTR"></span><span dir="LTR"></span>.<o:p></o:p></span></p><p class="read" dir="RTL" style="margin: 5pt 16.5pt; line-height: 200%; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; direction: rtl; unicode-bidi: embed; font-size: var(--pw-font-size-lg);"><span lang="AR-SA">وأضاف أن القيادة الرشيدة تضع الصحة في مقدمة
-أولوياتها وبفضل رؤيتها الحكيمة أصبحت المنشآت الصحية في الدولة تستقطب أفضل
-الكوادر الطبية وتزود مرافقها بأحدث الأجهزة والمعدات الصحية وتطبق أعلى المعايير
-الصحية العالمية ليحصل المريض على أفضل رعاية طبية تنافس ما يتم تقديمه في كبريات
-المؤسسات الصحية العالمية</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR" style="font-family: &quot;Noto Kufi Arabic&quot;, sans-serif;"><span dir="LTR"></span><span dir="LTR"></span>.<o:p></o:p></span></p><p class="read" dir="RTL" style="margin: 5pt 16.5pt; line-height: 200%; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; direction: rtl; unicode-bidi: embed; font-size: var(--pw-font-size-lg);"><span lang="AR-SA">وأشار إلى أن الدولة حريصة على تأهيل وتدريب
-الكوادر المواطنة بما يسهم في رفد القطاع الصحي بالكفاءات الإماراتية التي تتولى
-تقديم أفضل خدمات الرعاية الصحية للمرضى ، وذكر أن المركز الوطني للتأهيل بأبوظبي
-حريص على تطوير خدمات علاج وتأهيل حالات الإدمان على يد أفضل الكوادر ووفق أحدث
-المعايير العالمية</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR" style="font-family: &quot;Noto Kufi Arabic&quot;, sans-serif;"><span dir="LTR"></span><span dir="LTR"></span>.<o:p></o:p></span></p><p class="read" dir="RTL" style="margin: 5pt 16.5pt; line-height: 200%; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; direction: rtl; unicode-bidi: embed; font-size: var(--pw-font-size-lg);"><span lang="AR-SA">وأضاف أن المركز ماض في تطوير خدماته العلاجية
-والتأهلية بالتوازي مع تطوير خططه البحثية وعقد الشراكات وتبادل الخبرات مع
-المراكز العالمية للوصول إلى أعلى معايير الجودة في تطبيق برامج التعافي من مرض
-الإدمان وفقا لرؤية حكومة أبوظبي 2030</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR" style="font-family: &quot;Noto Kufi Arabic&quot;, sans-serif;"><span dir="LTR"></span><span dir="LTR"></span> .<o:p></o:p></span></p><p class="read" dir="RTL" style="margin: 5pt 16.5pt; line-height: 200%; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; direction: rtl; unicode-bidi: embed; font-size: var(--pw-font-size-lg);"><span lang="AR-SA">واكد أن الدولة حريصة على تقديم كافة أشكال
-الدعم للمركز ما يعزز دوره في التوعية وعلاج الإدمان ويرسخ مكانته الرائدة
-أقليمياُ وعالمياً</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR" style="font-family: &quot;Noto Kufi Arabic&quot;, sans-serif;"><span dir="LTR"></span><span dir="LTR"></span>.<o:p></o:p></span></p><p class="read" dir="RTL" style="margin: 5pt 16.5pt; line-height: 200%; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; direction: rtl; unicode-bidi: embed; font-size: var(--pw-font-size-lg);"><span lang="AR-SA">من جهتها قالت صفية المقطري الرئيس التنفيذي
-بالإنابة في مبادلة للرعاية الصحية دبي إن صحة وعافية المجتمعات تمثل عاملاً
-رئيسياً لتطور الدول وازدهارها لذلك يأتي يوم الصحة العالمي هذا العام تحت شعار
-"صحتي حقي" ليؤكد على أهمية تمتع أفراد المجتمعات بالخدمات الصحية
-المثلى التي تلبي احتياجاتهم الصحية وتعزز عافيتهم وتحميهم من الأمراض</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR" style="font-family: &quot;Noto Kufi Arabic&quot;, sans-serif;"><span dir="LTR"></span><span dir="LTR"></span>.<o:p></o:p></span></p><p class="read" dir="RTL" style="margin: 5pt 16.5pt; line-height: 200%; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; direction: rtl; unicode-bidi: embed; font-size: var(--pw-font-size-lg);"><span lang="AR-SA">وأضافت قائلة : " لاشك أننا عازمون على
-دعم التوجهات الاستراتيجية لدولة الإمارات المعنية بالقطاع الصحي وحريصون على تبني
-أحدث الخيارات العلاجية والحلول الوقائية وتعزيز الوعي في المجتمع حول السبل
-المثلى لتجنب الأمراض السارية عبر تبني خيارات غذائية صحية وممارسة النشاط البدني
-والابتعاد عن مسببات المرض ليكون مجتمع الدولة حصيناً من الأمراض وداعماً لنمو
-وازدهار دولة الإمارات</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR" style="font-family: &quot;Noto Kufi Arabic&quot;, sans-serif;"><span dir="LTR"></span><span dir="LTR"></span>".<o:p></o:p></span></p><p class="read" dir="RTL" style="margin: 5pt 16.5pt; line-height: 200%; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; direction: rtl; unicode-bidi: embed; font-size: var(--pw-font-size-lg);"><span lang="AR-SA">ومن جانبه قال عمر النقبي الرئيس التنفيذي
-لمستشفى هيلث بوينت و الرئيس التنفيذي بالإنابة لمستشفى دانة الإمارات للنساء
-والأطفال في تصريح لـ"وام" إن يوم الصحة العالمي يمثل فرصة قيمة لنسلط
-الضوء على أهمية توفير خدمات صحية وطبية متميزة لجميع أفراد المجتمع باعتبار ذلك
-من حقوقهم المشروعة وتحت شعار هذا العام "صحتي حقي" نؤكد أننا عازمون
-على توفير أحدث الحلول العلاجية تماشياً مع رؤية دولة الإمارات الرامية لترسيخ
-مكانتها كوجهة مفضلة للسياحة العلاجية فلا شك أن الدولة نجحت بتقديم نموذج يحتذى
-في القطاع الصحي على مستوى العالم بفضل بنيتها التحتية المتطورة ومؤسساتها الطبية
-والصحية الحاصلة على أرفع الاعتمادات العالمية ونجاحها باستقطاب خبراء ومقدمي
+                                                                    <p class="read" dir="RTL" style="margin: 5pt 16.5pt; line-height: 200%; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; direction: rtl; unicode-bidi: embed;">
+                                                                        <span lang="AR-SA">أكد مسؤولون عاملون في القطاع الصحي على ان قطاع الخدمات الصحية في دولة الإمارات يشهد
+                                                                                    تطورا وإنجازات مهمة تتناسب مع التحديات الصحية المتجددة وذلك إدراكا من القيادة
+                                                                                    الرشيدة على أهمية تقديم أفضل الخدمات الصحية وجميع الإمكانيات والوسائل المتطورة
+                                                                                    للقطاع الصحي وتوفير بيئة صحية مناسبة لجميع المواطنين والمقيمين على ارض الدولة
+                                                                        </span>
+                                                                        <span dir="LTR"></span>
+                                                                        <span dir="LTR"></span>
+                                                                        <span dir="LTR" style="font-family: Noto Kufi Arabic, sans-serif;">
+                                                                            <span dir="LTR"></span>
+                                                                            <span dir="LTR"></span>
+                                                                        </span>
+                                                                    </p>
+                                                                    <p class="read" dir="RTL" style="margin: 5pt 16.5pt; line-height: 200%; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; direction: rtl; unicode-bidi: embed; font-size: var(--pw-font-size-lg);">
+                                                                        <span lang="AR-SA">
+                                                                            وأكد يوسف الذيب الكتبي الرئيس التنفيذي للمركز
+                                                                            الوطني للتأهيل أن دولة الإمارات تحرص على توفير أفضل الخدمات الصحية للمواطنين
+                                                                            والمقيمين والزائرين وهو النهج الذي غرسه المغفور له الشيخ زايد بن سلطان آل نهيان
+                                                                            "طيب الله ثراه " وبفضله تبوأت الإمارات مكانة بارزة في مجال الرعاية
+                                                                            الصحية عالمياً
+                                                                        </span>
+                                                                        <span dir="LTR"></span>
+                                                                        <span dir="LTR"></span>
+                                                                        <span dir="LTR" style="font-family: Noto Kufi Arabic, sans-serif;">
+                                                                            <span dir="LTR"></span>
+                                                                            <span dir="LTR"></span>
+                                                                        </span>
+                                                                    </p>
+                                                                    <p class="read" dir="RTL" style="margin: 5pt 16.5pt; line-height: 200%; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; direction: rtl; unicode-bidi: embed; font-size: var(--pw-font-size-lg);">
+                                                                        <span lang="AR-SA">وأضاف في تصريح لوكالة انباء الإمارات
+                                                                            "وام" بمناسبة الاحتفال بيوم الصحة العالمي الذي يصادف السابع من أبريل
+                                                                            من كل عام، أن الإمارات بقيادة صاحب السمو الشيخ محمد بن زايد آل نهيان رئيس
+                                                                            الدولة "حفظه الله" تسير على هذا النهج لتضع الإمارات في مصاف الدول
+                                                                            المتقدمة في كافة الخدمات الصحية
+                                                                        </span>
+                                                                        <span dir="LTR"></span>
+                                                                        <span dir="LTR"></span>
+                                                                        <span dir="LTR" style="font-family: Noto Kufi Arabic, sans-serif;">
+                                                                            <span dir="LTR"></span>
+                                                                            <span dir="LTR"></span>
+                                                                        </span>
+                                                                    </p>
+                                                                    <p class="read" dir="RTL" style="margin: 5pt 16.5pt; line-height: 200%; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; direction: rtl; unicode-bidi: embed; font-size: var(--pw-font-size-lg);">
+                                                                        <span lang="AR-SA">وأضاف أن القيادة الرشيدة تضع الصحة في مقدمة
+                                                                            أولوياتها وبفضل رؤيتها الحكيمة أصبحت المنشآت الصحية في الدولة تستقطب أفضل
+                                                                            الكوادر الطبية وتزود مرافقها بأحدث الأجهزة والمعدات الصحية وتطبق أعلى المعايير
+                                                                            الصحية العالمية ليحصل المريض على أفضل رعاية طبية تنافس ما يتم تقديمه في كبريات
+                                                                            المؤسسات الصحية العالمية
+                                                                        </span>
+                                                                        <span dir="LTR"></span>
+                                                                        <span dir="LTR"></span>
+                                                                        <span dir="LTR" style="font-family: Noto Kufi Arabic, sans-serif;">
+                                                                            <span dir="LTR"></span>
+                                                                            <span dir="LTR"></span>
+                                                                        </span>
+                                                                    </p>
+                                                                    <p class="read" dir="RTL" style="margin: 5pt 16.5pt; line-height: 200%; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; direction: rtl; unicode-bidi: embed; font-size: var(--pw-font-size-lg);">
+                                                                        <span lang="AR-SA">وأشار إلى أن الدولة حريصة على تأهيل وتدريب
+                                                                            الكوادر المواطنة بما يسهم في رفد القطاع الصحي بالكفاءات الإماراتية التي تتولى
+                                                                            تقديم أفضل خدمات الرعاية الصحية للمرضى ، وذكر أن المركز الوطني للتأهيل بأبوظبي
+                                                                            حريص على تطوير خدمات علاج وتأهيل حالات الإدمان على يد أفضل الكوادر ووفق أحدث
+                                                                            المعايير العالمية
+                                                                        </span>
+                                                                        <span dir="LTR"></span>
+                                                                        <span dir="LTR"></span>
+                                                                        <span dir="LTR" style="font-family: Noto Kufi Arabic, sans-serif;">
+                                                                            <span dir="LTR"></span>
+                                                                            <span dir="LTR"></span>
+                                                                        </span>
+                                                                    </p>
+                                                                    <p class="read" dir="RTL" style="margin: 5pt 16.5pt; line-height: 200%; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; direction: rtl; unicode-bidi: embed; font-size: var(--pw-font-size-lg);">
+                                                                        <span lang="AR-SA">وأضاف أن المركز ماض في تطوير خدماته العلاجية
+                                                                            والتأهلية بالتوازي مع تطوير خططه البحثية وعقد الشراكات وتبادل الخبرات مع
+                                                                            المراكز العالمية للوصول إلى أعلى معايير الجودة في تطبيق برامج التعافي من مرض
+                                                                            الإدمان وفقا لرؤية حكومة أبوظبي 2030
+                                                                        </span>
+                                                                        <span dir="LTR"></span>
+                                                                        <span dir="LTR"></span>
+                                                                        <span dir="LTR" style="font-family: Noto Kufi Arabic, sans-serif;">
+                                                                            <span dir="LTR"></span>
+                                                                            <span dir="LTR"></span>
+                                                                        </span>
+                                                                    </p>
+                                                                    <p class="read" dir="RTL" style="margin: 5pt 16.5pt; line-height: 200%; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; direction: rtl; unicode-bidi: embed; font-size: var(--pw-font-size-lg);">
+                                                                        <span lang="AR-SA">واكد أن الدولة حريصة على تقديم كافة أشكال
+                                                                            الدعم للمركز ما يعزز دوره في التوعية وعلاج الإدمان ويرسخ مكانته الرائدة
+                                                                            أقليمياُ وعالمياً
+                                                                        </span>
+                                                                        <span dir="LTR"></span>
+                                                                        <span dir="LTR"></span>
+                                                                        <span dir="LTR" style="font-family: Noto Kufi Arabic, sans-serif;">
+                                                                            <span dir="LTR"></span>
+                                                                            <span dir="LTR"></span></span>
+                                                                    </p>
+                                                                    <p class="read" dir="RTL" style="margin: 5pt 16.5pt; line-height: 200%; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; direction: rtl; unicode-bidi: embed; font-size: var(--pw-font-size-lg);">
+                                                                        <span lang="AR-SA">من جهتها قالت صفية المقطري الرئيس التنفيذي
+                                                                            بالإنابة في مبادلة للرعاية الصحية دبي إن صحة وعافية المجتمعات تمثل عاملاً
+                                                                            رئيسياً لتطور الدول وازدهارها لذلك يأتي يوم الصحة العالمي هذا العام تحت شعار
+                                                                            "صحتي حقي" ليؤكد على أهمية تمتع أفراد المجتمعات بالخدمات الصحية
+                                                                            المثلى التي تلبي احتياجاتهم الصحية وتعزز عافيتهم وتحميهم من الأمراض
+                                                                        </span>
+                                                                        <span dir="LTR"></span>
+                                                                        <span dir="LTR"></span>
+                                                                        <span dir="LTR" style="font-family: Noto Kufi Arabic, sans-serif;">
+                                                                            <span dir="LTR"></span>
+                                                                            <span dir="LTR"></span>
+                                                                        </span>
+                                                                    </p>
+                                                                    <p class="read" dir="RTL" style="margin: 5pt 16.5pt; line-height: 200%; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; direction: rtl; unicode-bidi: embed; font-size: var(--pw-font-size-lg);">
+                                                                        <span lang="AR-SA">وأضافت قائلة : " لاشك أننا عازمون على
+                                                                            دعم التوجهات الاستراتيجية لدولة الإمارات المعنية بالقطاع الصحي وحريصون على تبني
+                                                                            أحدث الخيارات العلاجية والحلول الوقائية وتعزيز الوعي في المجتمع حول السبل
+                                                                            المثلى لتجنب الأمراض السارية عبر تبني خيارات غذائية صحية وممارسة النشاط البدني
+                                                                            والابتعاد عن مسببات المرض ليكون مجتمع الدولة حصيناً من الأمراض وداعماً لنمو
+                                                                            وازدهار دولة الإمارات
+                                                                        </span>
+                                                                        <span dir="LTR"></span>
+                                                                        <span dir="LTR"></span>
+                                                                        <span dir="LTR" style="font-family: Noto Kufi Arabic, sans-serif;">
+                                                                            <span dir="LTR"></span>
+                                                                            <span dir="LTR"></span>
+                                                                        </span>
+                                                                    </p>
+                                                                    <p class="read" dir="RTL" style="margin: 5pt 16.5pt; line-height: 200%; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; direction: rtl; unicode-bidi: embed; font-size: var(--pw-font-size-lg);">
+                                                                        <span lang="AR-SA">ومن جانبه قال عمر النقبي الرئيس التنفيذي
+                                                                            لمستشفى هيلث بوينت و الرئيس التنفيذي بالإنابة لمستشفى دانة الإمارات للنساء
+                                                                            والأطفال في تصريح لـ"وام" إن يوم الصحة العالمي يمثل فرصة قيمة لنسلط
+                                                                            الضوء على أهمية توفير خدمات صحية وطبية متميزة لجميع أفراد المجتمع باعتبار ذلك
+                                                                            من حقوقهم المشروعة وتحت شعار هذا العام "صحتي حقي" نؤكد أننا عازمون
+                                                                            على توفير أحدث الحلول العلاجية تماشياً مع رؤية دولة الإمارات الرامية لترسيخ
+                                                                            مكانتها كوجهة مفضلة للسياحة العلاجية فلا شك أن الدولة نجحت بتقديم نموذج يحتذى
+                                                                            في القطاع الصحي على مستوى العالم بفضل بنيتها التحتية المتطورة ومؤسساتها الطبية
+                                                                            والصحية الحاصلة على أرفع الاعتمادات العالمية ونجاحها باستقطاب خبراء ومقدمي
 الرعاية الحاصلين على أعلى المؤهلات من شتى أرجاء العالم</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR" style="font-family: &quot;Noto Kufi Arabic&quot;, sans-serif;"><span dir="LTR"></span><span dir="LTR"></span>.<o:p></o:p></span></p><p class="read" dir="RTL" style="margin: 5pt 16.5pt; line-height: 200%; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; direction: rtl; unicode-bidi: embed; font-size: var(--pw-font-size-lg);"><span lang="AR-SA">وقال الدكتور جيسون جراي الرئيس التنفيذي في
 أمانة للرعاية الصحية لـ"وام" إن دولة الإمارات تحرص على توفير بيئة
 معيشية صحية لسكانها مدعومة بمنظومة طبية متطورة تضع أفضل حلول الرعاية الصحية في

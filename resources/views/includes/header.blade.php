@@ -104,17 +104,17 @@
                             <ul class="menu-list nav-hover-1 sf-menu list-none">
                                 <li class="has-dropdown ">
 
-                                    <a href="#!" target="_self">الإمارات العربية المتحدة</a>
+                                    <a href="#!" target="_self">مركز احياء</a>
 
                                     <ul class="sub-menu submenu-bg-image light roboto-slab fz-11 text-uppercase">
                                         <li class="has-dropdown ">
 
-                                            <a href="/ar/about-uae" target="_self">نبذة عن الإمارات العربية المتحدة</a>
+                                            <a href="/ar/about-uae" target="_self">نبذة عن مركز احياء</a>
                                         </li>
 
                                         <li class="has-dropdown ">
 
-                                            <a href="" target="_self">المركز الوطني للتأهيل<span class="arrow"><i class="fa fa-angle-right"></i></span></a>
+                                            <a href="" target="_self">المركز الاحياىي للتأهيل<span class="arrow"><i class="fa fa-angle-right"></i></span></a>
 
                                             <ul class="sub-menu submenu-bg-image light roboto-slab fz-11 text-uppercase">
                                                 <li class="has-dropdown ">
@@ -162,27 +162,27 @@
 
                                                         <li class="has-dropdown ">
 
-                                                            <a href="#!" target="_self">الخدمات الطبية<span class="arrow"><i class="fa fa-angle-right"></i></span></a>
+                                                            <a href="#!" target="_self">الخدمةالمجتمعية<span class="arrow"><i class="fa fa-angle-right"></i></span></a>
 
                                                             <ul class="sub-menu submenu-bg-image light roboto-slab fz-11 text-uppercase">
                                                                 <li class="has-dropdown ">
 
-                                                                    <a href="/ar/public-health-and-research-department" target="_self">إدارة الصحة العامة والبحوث</a>
+                                                                    <a href="/ar/public-health-and-research-department" target="_self">البحوث والدراسات </a>
                                                                 </li>
 
                                                                 <li class="has-dropdown ">
 
-                                                                    <a href="/ar/treatment-and-rehabilitation-department" target="_self">إدارة العلاجية والتأهيلية</a>
+                                                                    <a href="/ar/treatment-and-rehabilitation-department" target="_self">الادارة والخدمات الساندة </a>
                                                                 </li>
 
                                                                 <li class="has-dropdown ">
 
-                                                                    <a href="/ar/nursing-department" target="_self">إدارة التمريض</a>
+                                                                    <a href="/ar/nursing-department" target="_self">الخدمات الصحية </a>
                                                                 </li>
 
                                                                 <li class="has-dropdown ">
 
-                                                                    <a href="/ar/operation-department" target="_self">إدارة العمليات</a>
+                                                                    <a href="/ar/operation-department" target="_self">التاهيل والاندماج </a>
                                                                 </li>
 
                                                             </ul>
