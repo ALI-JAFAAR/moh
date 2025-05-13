@@ -177,12 +177,12 @@
 
                                                                 <li class="has-dropdown ">
 
-                                                                    <a href="/ar/nursing-department" target="_self">إدارة التمريض</a>
+                                                                    <a href="/ar/nursing-department" target="_self">الخدمات الصحية </a>
                                                                 </li>
 
                                                                 <li class="has-dropdown ">
 
-                                                                    <a href="/ar/operation-department" target="_self">إدارة العمليات</a>
+                                                                    <a href="/ar/operation-department" target="_self">التاهيل والاندماج </a>
                                                                 </li>
 
                                                             </ul>
