@@ -16,7 +16,6 @@
 
 <div class="widget-container">
 
-    <!-- <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">  -->
     <header id="header" class="site-header header-finance static">
         <div class="header-top light-blue">
             <div class="container fullwidth header-padding"><div class="primary-nav-inner relative clear">
@@ -44,6 +43,7 @@
                         </ul>
                     </nav>
                     <nav class="clear right-content">
+
                         <ul class="menu-list nav-hover-1 sf-menu list-none">
                             <li>
                                 <p class="toll text-white mt2">

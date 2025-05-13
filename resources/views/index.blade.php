@@ -28,11 +28,11 @@
 
 
 
-            <x-slider />
+            <x-extras.slider />
 
 
 
-            <x-slider-container />
+            <x-extras.slider-container />
 
 
 
